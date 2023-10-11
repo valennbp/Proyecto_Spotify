@@ -2,16 +2,18 @@
 
 
 # Presentación 
+Esta presentación tiene como objetivo mostrar la información recopilada a partir del conjunto de datos sobre las canciones más reproducidas en Spotify en 2023, así como las conclusiones derivadas del análisis y algunas visualizaciones que hemos creado utilizando Power BI.
 
-La presentación para mostrar la información utilizada del set de datos, las conclusiones sacadas del análisis realizado y algunas visualizaciones (realizadas en Power BI) 
 **offline!**
 [Canciones de Spotify más reproducidas - Presentación de Google](https://docs.google.com/presentation/d/1psP1eN9Bo0_F0PMBVNjjUig4YjR1byk9/edit?usp=sharing&ouid=106301975252750619883&rtpof=true&sd=true)
 
 ## Descripción del proyecto
 
-El objetivo principal de este dataset es analizar y comprender las tendencias y características de las canciones populares de 2023 en Spotify y otras plataformas de música identificando las canciones más populares de cada plataforma, explorando el impacto de cada plataforma y identificar artistas destacados.
+El objetivo principal de este dataset es analizar y comprender las tendencias y características de las canciones populares de 2023 en Spotify y otras plataformas de música, identificando las canciones más populares de cada plataforma, explorando el impacto de cada plataforma y identificar artistas destacados.
 
 ## Queries y Scripts de Phyton usados
+
+Para llevar a cabo este proyecto, utilizamos Google Colab y Python, aprovechando varias bibliotecas y scripts para manejar el conjunto de datos. Aquí está un resumen de los pasos clave que seguimos
 
 Colab: "https://colab.research.google.com/drive/15sLcZ4RKAWh1RljtSPjY3VaF7gw5d8HX?usp=sharing"
 
@@ -74,11 +76,13 @@ else :
 print(df.isnull().sum())
 ## Enlace del Dataset elegido
 
+El conjunto de datos utilizado para este análisis se encuentra en Kaggle y se titula "Most Streamed Spotify Songs (2023)". Puedes acceder a él a través del siguiente enlace
+
 [Most Streamed Spotify Songs (2023) (kaggle.com)](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 
 
 # Documentación
 
-Toda la información sacada del Dataset tal como conclusiones, términos aprendidos, tecnologías usadas y toda esa información importante que no fue colocada en los anteriores link o archivos para no saturar, se encuentran en este informe / documento.
+Toda la información detallada, incluyendo conclusiones, términos técnicos aprendidos durante el proyecto, tecnologías utilizadas y otros detalles relevantes que no se incluyen en los enlaces anteriores, se encuentra en el siguiente informe o documento
 
 https://docs.google.com/document/d/1UuFljtUq8fpGaHa-aCgetmNF4a0mVBbM/edit
