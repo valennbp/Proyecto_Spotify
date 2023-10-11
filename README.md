@@ -1,13 +1,11 @@
-# Exportaciones e importaciones mundiales (1988-2021)
-
-Holaa!!! diviértete navegando por mi proyecto final <3
+# Canciones de Spotify más reproducidas (1988-2021)
 
 
 # Presentación 
 
 La presentación para mostrar la información utilizada del set de datos, las conclusiones sacadas del análisis realizado y algunas visualizaciones (realizadas en Power BI) 
 **offline!**
-[Canciones de Spotify más reproducidas - Presentaciones de Google](https://docs.google.com/presentation/d/1psP1eN9Bo0_F0PMBVNjjUig4YjR1byk9/edit?usp=sharing&ouid=106301975252750619883&rtpof=true&sd=true)
+[Canciones de Spotify más reproducidas - Presentación de Google](https://docs.google.com/presentation/d/1psP1eN9Bo0_F0PMBVNjjUig4YjR1byk9/edit?usp=sharing&ouid=106301975252750619883&rtpof=true&sd=true)
 
 ## Descripción del proyecto
 
